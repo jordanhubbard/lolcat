@@ -2,6 +2,10 @@
 
 A Scheme (Racket) implementation of the popular lolcat utility, which displays text with rainbow colors in the terminal.
 
+Why convert the original Ruby code to scheme?  Because reasons, that's why!   One of the reasons was to demonstrate machine translation of Ruby to something obscure, and somebody picked Racket scheme as the obscure target, so off we (GPT4o and I) went.  This was actually harder than expected because GPT4o isn't very good at scheme and many iterations and hand guidance was necessary, but so be it.
+
+What language next? 
+
 ![](https://github.com/busyloop/lolcat/raw/master/ass/nom.jpg)
 
 ## Screenshot
